@@ -81,6 +81,17 @@ footer{
 	max-width: 30rem;
 	background-color: white;
 }
+
+.contact-form{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	max-width: 30rem;
+	background-color: white;
+}
+
+
+
 .group{
 	display: flex;
 }
